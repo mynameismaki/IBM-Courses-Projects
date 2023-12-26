@@ -1,2 +1,2 @@
 # IBM-Project-Courses
-Jupyter Notebooks - Projects from IBM
+Jupyter Notebooks - Projects from IBM Courses that I have taken.
